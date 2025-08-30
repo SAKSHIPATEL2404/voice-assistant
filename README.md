@@ -1,18 +1,18 @@
-📌 Overview
+-Overview
 
 This project is a simple Voice Assistant built using Python and the Vosk Speech Recognition API.
 It can listen to your voice through a microphone, recognize speech, and perform basic tasks.
 
 
-✨ Features
+- Features
 
-🎤 Speech-to-Text using Vosk Model
+. Speech-to-Text using Vosk Model
 
-🔊 Text-to-Speech response
+. Text-to-Speech response
 
-⚡ Real-time audio processing
+. Real-time audio processing
 
-📚 Easy to extend with custom commands (e.g., weather, opening apps, etc.)
+. Easy to extend with custom commands (e.g., weather, opening apps, etc.)
 
 
 🛠 Technologies Used
@@ -26,7 +26,7 @@ PyAudio (for microphone input)
 gTTS / pyttsx3 (for text-to-speech, optional)
 
 
-📂 Project Structure
+- Project Structure
 
 voice-assistant/
 │
@@ -60,15 +60,15 @@ Speak into your microphone 🎤 and the assistant will recognize your voice and 
 
 ---
 
-📌 Future Enhancements
+- Future Enhancements
 
-🌐 Add weather and news API integration
+. Add weather and news API integration
 
-📂 Open applications via voice commands
+. Open applications via voice commands
 
-🧠 Add Natural Language Understanding (NLU)
+. Add Natural Language Understanding (NLU)
 
-💡 Improve real-time response
+. Improve real-time response
 
 
 
